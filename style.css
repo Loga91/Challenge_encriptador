@@ -27,4 +27,22 @@ main{
     padding: 2px;
     text-transform: lowercase;
 }
+::placeholder {color: #0a3871;}
+    .text-area:focus{
+        outline: none;
+    }
 
+.mensaje{
+    width: 400px;
+    height: 630px;
+    background: white;
+    background-image: url(imagenes/Muñeco.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+
+}
+.información{
+    color: var(--gray-gray-400, #495057);
+    
+}
