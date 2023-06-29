@@ -3,7 +3,7 @@
     font-family: "Inter";
     font-weight: 400;
     font-size: 32px;
-    line-height: 100%;
+    line-height: 150%;
     overflow-y: hidden;
 }
 
@@ -86,8 +86,11 @@ main{
     cursor: pointer;
     height: 55px;
     margin-left: 120px;
+    margin-top: 565px;
 }
+
+
 .información{
     color: var(--gray-gray-400, #495057);
-    
+    font-size: 12px;
 }
