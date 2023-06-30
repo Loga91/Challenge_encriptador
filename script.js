@@ -59,4 +59,5 @@ function copiar(){
     navigator.clipboard.writeText(mensaje.value)
     mensaje.value = "";
     alert("Texto copiado");
+    location.reload();
 }
