@@ -85,8 +85,9 @@ main{
     color: #0A3871;
     cursor: pointer;
     height: 55px;
-    margin-left: 120px;
-    margin-top: 565px;
+    margin-left: 170px;
+    margin-top: 539px;
+    position: absolute;
 }
 
 
